@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/tehlin/static/js/runtime~main.06d702c7.js"
   },
   {
-    "revision": "e86c3ae0697b714b8f84",
-    "url": "/tehlin/static/js/main.8d9ba25b.chunk.js"
+    "revision": "163a10a787994c525d75",
+    "url": "/tehlin/static/js/main.6a103014.chunk.js"
   },
   {
     "revision": "8188eecdc9a53f99cd5a",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/tehlin/static/css/2.6d845f31.chunk.css"
   },
   {
-    "revision": "70015a079c45134a6a68ff368cdfe794",
+    "revision": "7a3c62ac4d51ffd8d722f0de604719c8",
     "url": "/tehlin/index.html"
   }
 ];
