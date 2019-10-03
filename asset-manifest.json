@@ -1,13 +1,13 @@
 {
-  "main.js": "/tehlin/static/js/main.b6f00e09.chunk.js",
-  "main.js.map": "/tehlin/static/js/main.b6f00e09.chunk.js.map",
+  "main.js": "/tehlin/static/js/main.9739d13f.chunk.js",
+  "main.js.map": "/tehlin/static/js/main.9739d13f.chunk.js.map",
   "runtime~main.js": "/tehlin/static/js/runtime~main.06d702c7.js",
   "runtime~main.js.map": "/tehlin/static/js/runtime~main.06d702c7.js.map",
   "static/css/2.6d845f31.chunk.css": "/tehlin/static/css/2.6d845f31.chunk.css",
-  "static/js/2.24f3a0cf.chunk.js": "/tehlin/static/js/2.24f3a0cf.chunk.js",
-  "static/js/2.24f3a0cf.chunk.js.map": "/tehlin/static/js/2.24f3a0cf.chunk.js.map",
+  "static/js/2.93ce3981.chunk.js": "/tehlin/static/js/2.93ce3981.chunk.js",
+  "static/js/2.93ce3981.chunk.js.map": "/tehlin/static/js/2.93ce3981.chunk.js.map",
   "index.html": "/tehlin/index.html",
-  "precache-manifest.307fd9f9c24d829696d43f4b4f706d0d.js": "/tehlin/precache-manifest.307fd9f9c24d829696d43f4b4f706d0d.js",
+  "precache-manifest.2ac6d24f14935f05c7f442cb7bb7043a.js": "/tehlin/precache-manifest.2ac6d24f14935f05c7f442cb7bb7043a.js",
   "service-worker.js": "/tehlin/service-worker.js",
   "static/css/2.6d845f31.chunk.css.map": "/tehlin/static/css/2.6d845f31.chunk.css.map"
 }
