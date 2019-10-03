@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tehlin/precache-manifest.1d5e6985a2aea7c96448516398d7d2a9.js"
+  "/tehlin/precache-manifest.8e08722594003905b72bd4f0bac7c8de.js"
 );
 
 workbox.clientsClaim();
